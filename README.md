@@ -1,0 +1,1 @@
+Trying to generate API endpoints mock based on the Swagger config for local testing convenience.
